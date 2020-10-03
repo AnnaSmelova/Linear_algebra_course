@@ -1,1 +1,5 @@
-# Linear_algebra_course
+# Курс Линейная алгебра
+
+### Homeworks
+
+Geek University: факультет Искусственного интеллекта
